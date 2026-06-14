@@ -89,3 +89,5 @@ http://localhost/smarthire
 
 ## Author
 Humna Mazhar
+Computer Science Student
+Passionate about AI, Web Development & Automation
