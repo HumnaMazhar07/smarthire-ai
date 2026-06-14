@@ -1,0 +1,39 @@
+smarthire/
+│
+├── ai/
+│   └── analyze_cv.py          # AI engine (Ollama / free LLM)
+│
+├── candidate/
+│   ├── apply.php
+│   ├── candidate_dashboard.php
+│
+├── recruiter/
+│   ├── recruiter_dashboard.php
+│   ├── post_job.php
+│   ├── edit_job.php
+│   ├── delete_job.php
+│   ├── update_application.php
+│
+├── admin/
+│   ├── admin_dashboard.php
+│
+├── includes/
+│   ├── config.php
+│   ├── ai_service.php
+│   ├── auth.php
+│   ├── header.php
+│   ├── footer.php
+│
+├── uploads/
+│   └── cv/
+│
+├── assets/
+│   ├── css/
+│   ├── js/
+│
+├── db/
+│   └── database.sql
+│
+├── .env.example
+├── README.md
+└── index.php
