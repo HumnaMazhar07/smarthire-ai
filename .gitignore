@@ -1,0 +1,7 @@
+.env
+
+uploads/cv/*
+
+__pycache__/
+
+*.pyc
